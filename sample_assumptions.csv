@@ -1,0 +1,6 @@
+parameter,value,unit,notes
+steps,1800,count,Example repeated foot presses during a work interval
+voltage_per_press,4.5,V,Approximate observed high-pressure piezo output before losses
+current_per_press,8,mA,Illustrative current assumption for estimation only
+efficiency,0.35,ratio,Estimated combined conversion and storage efficiency
+
